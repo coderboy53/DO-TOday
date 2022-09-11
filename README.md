@@ -48,10 +48,11 @@ For using this app in your local environment, follow these steps on your system
 git clone https://github.com/coderboy53/DO-TOday.git
 ```
 
-- Move into the cloned directory
+- Move into the cloned directory and the frontend directory
 
 ```bash
 cd DO-TOday
+cd client
 ```
 
 - Start the development server
